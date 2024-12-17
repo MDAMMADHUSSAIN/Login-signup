@@ -17,6 +17,27 @@ It validates user inputs like email, password, and username to ensure they meet 
 
 ---
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+### **Signup Page**
+![Signup Page](./Screenshots/Signup_no-ERROR.png)
+
+### **Login Page**
+![Login Page](./Screenshots/Login_no-ERROR.png)
+
+### **Signup Error 1**
+![Login Page](./Screenshots/signup_blank_error.png)
+
+### **Login Error 1**
+![Login Page](./Screenshots/Login_Blank_Error.png)
+
+
+You can find more screenshots in the **`Screenshots`** folder.
+
+---
+
 ## Prerequisites
 
 Before setting up the project, make sure you have the following installed:
@@ -34,11 +55,12 @@ npm -v
 
 ## Setup Guide
 Follow these steps to setup and run the project on your local machine.
-### Step 1: Clone the Repository
-Open your terminal or command prompt and run :
+### Step 1: Clone the Repository & change the directory
+Open your terminal or command prompt (preferably in VS Code terminal) and run :
 ```bash
-git clone https://github.com/https://github.com/MDAMMADHUSSAIN/Login-signup
-cd react-login-signup
+git clone https://github.com/MDAMMADHUSSAIN/Login-signup
+cd Login-signup
+cd frontend
 ```
 ---
 
