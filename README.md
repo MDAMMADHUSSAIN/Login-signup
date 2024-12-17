@@ -59,8 +59,7 @@ Follow these steps to setup and run the project on your local machine.
 Open your terminal or command prompt (preferably in VS Code terminal) and run :
 ```bash
 git clone https://github.com/MDAMMADHUSSAIN/Login-signup
-cd Login-signup
-cd frontend
+cd Login-signup/frontend
 ```
 ---
 
