@@ -56,7 +56,7 @@ npm -v
 ## Setup Guide
 Follow these steps to setup and run the project on your local machine.
 ### Step 1: Clone the Repository & change the directory
-Open your terminal or command prompt (preferably in VS Code terminal) and run :
+Open your terminal or command prompt and run :
 ```bash
 git clone https://github.com/MDAMMADHUSSAIN/Login-signup
 cd Login-signup/frontend
