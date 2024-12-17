@@ -29,5 +29,63 @@ To check if Node.js and npm are installed, run the following commands in your te
 ```bash
 node -v
 npm -v 
+```
+---
+
+## Setup Guide
+Follow these steps to setup and run the project on your local machine.
+### Step 1: Clone the Repository
+Open your terminal or command prompt and run :
+```bash
+git clone https://github.com/https://github.com/MDAMMADHUSSAIN/Login-signup
+cd react-login-signup
+```
+---
+
+### Step 2: Install Dependecies
+Install all required Node.js dependencies by running : 
+```bash
+npm install
+```
+---
+
+### Step 3: Start the Application
+Start the development server using the following command :
+```bash
+npm start
+```
+Once the server starts successfully, you will see the following message in your terminal:
+```bash
+Compiled successfully!
+
+You can now view the app in the browser.
+
+Local: http://localhost:3000
+```
 
 ---
+
+### Step 4: Open the Application
+- Open your browser.
+- Visit http://localhost:3000.
+- The Login and Signup pages will be displayed.
+
+---
+
+### Step 5: Test the Validation Features  
+- **signup page:**
+  - Username must have at least 3 characters.
+  - Password must have at least 8 characters.
+  - Repeat Password must match the original password.
+  - Email format will be validated.
+
+- **Login page:**
+  - Verify basic form validation for email and password..
+
+
+
+
+
+
+
+
